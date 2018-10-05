@@ -1,0 +1,11 @@
+.Python
+__pycache__
+
+1[0-9]*
+
+bin/
+include/
+lib/
+pip-selfcheck.json
+
+*~*
